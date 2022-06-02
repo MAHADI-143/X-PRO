@@ -1,4 +1,5 @@
-![F8A7D759-8513-4FBA-91C0-5287E0717F88](https://user-images.githubusercontent.com/79738922/168621607-1cc74a42-ba8b-44a8-b635-c23220c15b6d.png
+
+![4E33A330-3266-4D87-A55D-9FE21760631E](https://user-images.githubusercontent.com/79738922/171726480-b39f50d6-5c34-494d-9989-83c13508e739.png)
 
 termux-setup-storage -y
 
