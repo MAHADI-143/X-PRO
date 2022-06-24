@@ -18,7 +18,7 @@ if bit == "64bit":
  
         from fire64 import Subscraption
  
-       Subscraption()
+        Subscraption()
  
  
  
