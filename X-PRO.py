@@ -24,10 +24,10 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        from old32 import bye
+        from fire32 import Subscraption
  
  
-        bye()
+        Subscraption()
  
  
  
