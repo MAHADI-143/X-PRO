@@ -24,6 +24,8 @@ pip install bs4
 
 pip install uuid
 
+pkg install play-audio
+
 git clone https://github.com/MAHADI-143/X-PRO.git
 
 cd X-PRO
